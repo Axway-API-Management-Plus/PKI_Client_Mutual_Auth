@@ -34,7 +34,7 @@ This artefact was successfully tested for the following versions:
 
 ```
 • Download the CertificateAuthSample*.xml policy file.
-• There are several options to import this file, including Team Development, REST API, and sample scripted options included with the Axway solution. The simplest way however is to open Policy Studio and select 'File --> Import --> Import Configuration Fragment'.
+• Import file. The simplest way however is to open Policy Studio and select 'File --> Import --> Import Configuration Fragment'.
 ```
 
 ## Usage
