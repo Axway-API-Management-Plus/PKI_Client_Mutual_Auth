@@ -63,6 +63,8 @@ Please read [Contributing.md](https://github.com/Axway-API-Management/Common/blo
 
 [Axwaylogo]: https://github.com/Axway-API-Management/Common/blob/master/img/AxwayLogoSmall.png  "Axway logo"
 
+Contact - Daniel Wille: dwille@axway.com
+
 
 ## License
 [Apache License 2.0](/LICENSE)
