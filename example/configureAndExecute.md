@@ -45,6 +45,7 @@ A sample single depth client-issuer relationship can be seen here:
 
 ![alt text](https://github.com/Axway-API-Management-Plus/PKI_Client_Mutual_Auth/blob/master/example/src/trafficMonitor.png "Traffic Monitor")
 
+
 ## API Management Version Compatibility
 This artefact was successfully tested for the following versions:
 - V7.5.3
