@@ -1,6 +1,10 @@
 # PKI-Client-Mutual-Auth
 Sample to create PKI client authentication with validation and RBAC authorization with mutual authentication enforcement.
 
+## Example Policy Use Case Deployment and Execution With Step-by-Step
+
+https://github.com/Axway-API-Management-Plus/PKI_Client_Mutual_Auth/blob/master/example/configureAndExecute.md
+
 ## Description
 
 This policy is meant to serve as a template for customers looking to enforce certificate authentication as a login or access mechanism. This is a very basic policy to provide a framework for this process, and can be extended to provide more in depth fine grain authorization controls. 
